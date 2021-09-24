@@ -6,7 +6,7 @@ Created on Thu Aug  5 23:22:19 2021
 """
 
 import csv
-
+i = 123123
 print("classify")
 
 class1=['诉讼','立案','司法','法律文书','起诉','法院','涉诉','仲裁','判决']
